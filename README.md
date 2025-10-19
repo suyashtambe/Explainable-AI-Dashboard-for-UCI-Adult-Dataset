@@ -103,7 +103,9 @@ pip install -r requirements.txt
 - matplotlib
 - sqlite3
 
-### 4. Launch Dashboard
+### 4. Run the Notebook folder files 
+
+### 5. Launch Dashboard
 ```bash
 streamlit run dashboard/app.py
 ```
