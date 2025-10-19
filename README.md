@@ -130,13 +130,7 @@ spectra-xai-dashboard/
 └─ README.md
 ```
 
-## 📦 Deliverables
 
-### 📚 Documentation
-- [x] GitHub Repository
-- [x] Setup Instructions
-- [x] Technical Report (2-3 pages)
-- [ ] Demo Video (3-5 min)
 
 ### 🔒 Security & Ethics
 
